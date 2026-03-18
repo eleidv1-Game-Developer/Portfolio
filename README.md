@@ -1,4 +1,4 @@
-<h1>Hi, I'm Elei! <br/><a href="www.linkedin.com/in/elei-de-vera-29b1a7215">Unity Game Developer(c#)(PC, Mobile and Web)</a></h1>
+<h1>Hi, I'm Elei! <br/><a href="https://www.linkedin.com/in/elei-de-vera-29b1a7215/">Unity Game Developer(c#)(PC, Mobile and Web)</a></h1>
 
 <h2>👨‍💻Portfolio Game Projects:</h2>
 
